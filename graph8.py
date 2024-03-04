@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 names = ['Aurrera', 'Soriana', 'Chedraui']
-values = [1900, 5000, 29]
+values = [1900, 5000, 2900]
 values_2 = [2700, 1500, 3400]
 
 plt.xlabel("Company")
